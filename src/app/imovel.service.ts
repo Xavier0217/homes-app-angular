@@ -26,6 +26,20 @@ export class ImovelService {
                     "chave": "Piscina",
                     "valor": "sim"
                 }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 5000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 60000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 300
+                }
             ]
         },
         {
@@ -42,6 +56,20 @@ export class ImovelService {
                 {
                     "chave": "Banheiro",
                     "valor": 1
+                }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 2000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 24000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 150
                 }
             ]
         },
@@ -68,6 +96,20 @@ export class ImovelService {
                     "chave": "Arvores",
                     "valor": "Bastante"
                 }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 15000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 180000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 1000
+                }
             ]
         },
         {
@@ -89,6 +131,20 @@ export class ImovelService {
                     "chave": "Jardim",
                     "valor": "sim"
                 }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 7000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 84000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 400
+                }
             ]
         },
         {
@@ -105,6 +161,20 @@ export class ImovelService {
                 {
                     "chave": "Garagem",
                     "valor": "2 vagas"
+                }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 8000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 96000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 500
                 }
             ]
         },
@@ -123,6 +193,20 @@ export class ImovelService {
                     "chave": "Quintal",
                     "valor": "grande"
                 }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 9000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 108000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 600
+                }
             ]
         },
         {
@@ -139,6 +223,20 @@ export class ImovelService {
                 {
                     "chave": "Área de lazer",
                     "valor": "piscina e churrasqueira"
+                }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 10000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 120000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 700
                 }
             ]
         },
@@ -157,6 +255,20 @@ export class ImovelService {
                     "chave": "Segurança",
                     "valor": "portaria 24h"
                 }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 12000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 144000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 800
+                }
             ]
         },
         {
@@ -173,6 +285,20 @@ export class ImovelService {
                 {
                     "chave": "Academia",
                     "valor": "sim"
+                }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 11000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 132000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 600
                 }
             ]
         },
@@ -191,9 +317,25 @@ export class ImovelService {
                     "chave": "Vista panorâmica",
                     "valor": "serra"
                 }
+            ],
+            "aluguel": [
+                {
+                    "chave": "Aluguel Mensal",
+                    "valor": 13000
+                },
+                {
+                    "chave": "Aluguel Anual",
+                    "valor": 156000
+                },
+                {
+                    "chave": "Diária",
+                    "valor": 700
+                }
             ]
         }
     ];
+    
+    
     
 
 

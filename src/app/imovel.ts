@@ -3,6 +3,12 @@ interface Propriedades {
     valor: number|String
 }
 
+interface DetalhesAluguel {
+    chave: String
+    valor: number
+
+}
+
 export interface Imovel {
     id: number
     url_foto: String
@@ -14,4 +20,5 @@ export interface Imovel {
     latitude: String
     longitude: String
     adicionais: Propriedades[]
+    aluguel: DetalhesAluguel[]
 }
