@@ -17,6 +17,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "48.8566",
             "longitude": "2.3522",
+            "preco": 1200000,
             "adicionais": [
                 {
                     "chave": "Quartos disponiveis",
@@ -52,6 +53,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "40.7128",
             "longitude": "-74.0060",
+            "preco": 500000,
             "adicionais": [
                 {
                     "chave": "Banheiro",
@@ -83,6 +85,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "-22.9068",
             "longitude": "-43.1729",
+            "preco": 3500000,
             "adicionais": [
                 {
                     "chave": "Quartos disponiveis",
@@ -122,6 +125,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "34.0522",
             "longitude": "-118.2437",
+            "preco": 1800000,
             "adicionais": [
                 {
                     "chave": "Piscina",
@@ -157,6 +161,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "51.5074",
             "longitude": "-0.1278",
+            "preco": 2500000,
             "adicionais": [
                 {
                     "chave": "Garagem",
@@ -188,6 +193,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "-33.8688",
             "longitude": "151.2093",
+            "preco": 3000000,
             "adicionais": [
                 {
                     "chave": "Quintal",
@@ -219,6 +225,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "35.6895",
             "longitude": "139.6917",
+            "preco": 2800000,
             "adicionais": [
                 {
                     "chave": "Área de lazer",
@@ -250,6 +257,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "25.2769",
             "longitude": "55.2963",
+            "preco": 1500000,
             "adicionais": [
                 {
                     "chave": "Segurança",
@@ -281,6 +289,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "22.3193",
             "longitude": "114.1694",
+            "preco": 2000000,
             "adicionais": [
                 {
                     "chave": "Academia",
@@ -312,6 +321,7 @@ export class ImovelService {
             "favorito": false,
             "latitude": "-33.9249",
             "longitude": "18.4241",
+            "preco": 3200000,
             "adicionais": [
                 {
                     "chave": "Vista panorâmica",
@@ -334,6 +344,7 @@ export class ImovelService {
             ]
         }
     ];
+    
     
     
     

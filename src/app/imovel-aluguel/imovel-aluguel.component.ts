@@ -23,4 +23,9 @@ export class ImovelAluguelComponent {
     this.imovel = this.imvService.buscarImovelPeloId(id)
   }
 
+  voltarDetalhes() {
+    const url = `/detalhes/${this.imovel?.id}`
+    this.rt.navigate([url])
+  }
+
 }
