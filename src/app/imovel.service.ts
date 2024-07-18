@@ -29,16 +29,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 300
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 5000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 60000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 300
                 }
             ]
         },
@@ -60,16 +60,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 150
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 2000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 24000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 150
                 }
             ]
         },
@@ -99,16 +99,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 1000
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 15000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 180000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 1000
                 }
             ]
         },
@@ -134,16 +134,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 400
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 7000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 84000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 400
                 }
             ]
         },
@@ -165,16 +165,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 500
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 8000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 96000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 500
                 }
             ]
         },
@@ -196,16 +196,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 600
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 9000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 108000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 600
                 }
             ]
         },
@@ -227,16 +227,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 700
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 10000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 120000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 700
                 }
             ]
         },
@@ -258,16 +258,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 800
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 12000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 144000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 800
                 }
             ]
         },
@@ -289,16 +289,16 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 600
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 11000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 132000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 600
                 }
             ]
         },
@@ -320,20 +320,21 @@ export class ImovelService {
             ],
             "aluguel": [
                 {
+                    "chave": "Diária",
+                    "valor": 700
+                },
+                {
                     "chave": "Aluguel Mensal",
                     "valor": 13000
                 },
                 {
                     "chave": "Aluguel Anual",
                     "valor": 156000
-                },
-                {
-                    "chave": "Diária",
-                    "valor": 700
                 }
             ]
         }
     ];
+    
     
     
     
